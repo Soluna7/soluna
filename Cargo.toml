@@ -5,7 +5,6 @@ edition = "2021"
 description = "Personal library reserved for future use."
 readme = "README.md"
 repository = "https://github.com/Soluna7/soluna"
-license = "All Rights Reserved"
 license-file = "LICENSE"
 
 
