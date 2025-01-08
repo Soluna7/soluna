@@ -1,0 +1,11 @@
+[package]
+name = "soluna"
+version = "0.0.0"
+edition = "2021"
+description = "Personal library reserved for future use."
+readme = "README.md"
+license = "All Rights Reserved"
+license-file = "LICENSE"
+
+
+[dependencies]
